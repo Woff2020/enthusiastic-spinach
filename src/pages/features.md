@@ -1,5 +1,5 @@
 ---
-title: Features
+title: " "
 sections:
 - type: section_content
   template: section_content
@@ -17,16 +17,6 @@ sections:
     primary: false
     new_window: false
   - label: View Demo
-    url: "#"
-    primary: false
-    new_window: false
-- type: section_cta
-  template: section_cta
-  title: This Is Call to Action Block!
-  section_id: call-to-action
-  subtitle: This is an optional description for the call to action block.
-  actions:
-  - label: Get Started
     url: "#"
     primary: false
     new_window: false
