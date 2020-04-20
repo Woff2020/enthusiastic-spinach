@@ -1,5 +1,5 @@
 ---
-title: " "
+title: Features
 sections:
 - type: section_content
   template: section_content
