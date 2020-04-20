@@ -2,10 +2,14 @@
   "title": "Datomize",
   "palette": "blue",
   "header": {
-    "title": "Datomize",
+    "title": "Datomize .Ai                        Democratizing Real-time Machine Learning",
     "logo_img": "images/logo.png",
     "has_nav": true,
     "nav_links": [
+      {
+        "label": "How It Works",
+        "url": "/"
+      },
       {
         "label": "Home",
         "url": "/"
