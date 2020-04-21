@@ -26,5 +26,6 @@ fields:
 pages:
 - src/pages/about.md
 - src/pages/how-it-works.md
+- src/pages/platform.md
 - src/pages/signup.md
 - src/pages/style-guide.md
