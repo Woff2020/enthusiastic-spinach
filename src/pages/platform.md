@@ -1,7 +1,7 @@
 ---
 template: page
 title: Platform
-subtitle: Platform
+subtitle: ''
 image: ''
 
 ---
