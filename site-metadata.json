@@ -7,25 +7,28 @@
     "has_nav": true,
     "nav_links": [
       {
+        "label": "Datomize",
+        "url": "/"
+      },
+      {
+        "label": "Platform",
+        "url": "/platform"
+      },
+      {
         "label": "How It Works",
         "url": "/how-it-works"
       },
       {
-        "label": "Home",
-        "url": "/"
-      },
-      {
-        "label": "Democratizing Real-time Machine Learning",
-        "url": "/features"
+        "label": "Use Cases",
+        "url": "/use-cases"
       },
       {
         "label": "Pricing",
         "url": "/pricing"
       },
       {
-        "label": "Sign Up",
-        "url": "/signup",
-        "primary": true
+        "label": "About us",
+        "url": "/about-us"
       }
     ]
   },
