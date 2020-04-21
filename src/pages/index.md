@@ -12,7 +12,7 @@ sections:
   image: images/hero.png
   actions:
   - label: Learn More
-    url: "/features"
+    url: "/how-it-works"
     primary: false
     new_window: false
 - type: section_features
