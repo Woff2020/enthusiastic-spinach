@@ -5,8 +5,10 @@ sections:
   template: section_hero
   title: Datomize - Home for AI
   section_id: hero
-  content: 'Azimuth is the perfect theme for developers, designers and entrepreneurs
-    who need a sleek, modern SaaS site. '
+  content: |-
+    Datomize is a fully managed platform providing real-time codeless machine learning. It loads your datasets, trains the best learning algorithm to your needs and deploys - all in under a minute, automatically.
+
+    Datomize opens the possibility to use real-time machine learning models for everyone with less effort at a lower cost.
   image: images/hero.png
   actions:
   - label: Learn More
