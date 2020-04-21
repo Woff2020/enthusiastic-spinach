@@ -7,6 +7,12 @@
     "has_nav": true,
     "nav_links": [
       {
+        "label": "Try it out!",
+        "new_window": true,
+        "primary": true,
+        "url": "https://platform.datomize.ai"
+      },
+      {
         "label": "Datomize",
         "url": "/"
       },
