@@ -8,10 +8,13 @@ sections:
   subtitle: You can have a separate pricing page or list everything on the home page.
   background: gray
   pricing_plans:
-  - title: Free Plan
+  - title: Basic
     price: "$0/m"
-    details: "* **20 requests per minute**\n* **1 running experiment concurrently**\n*
-      **16 Mb datasource**\n* **unlimited experiments** "
+    details: |-
+      * **20 requests per minute**
+      * **1 running experiment**
+      * **16 Mb datasource**
+      * **unlimited experiments**
     actions:
     - label: Order Now
       url: "/signup"
@@ -20,12 +23,8 @@ sections:
     highlight: false
   - title: HouseKeeper
     price: "$49/m"
-    details: |-
-      * Curabitur non nunc mollis
-      * Duis a purus nec ligula
-      * Pellentesque sit amet
-      * Fusce tempus mi vitae
-      * Nullam sollicitudin ante
+    details: "* **200 requests per minute**\n* **2 running experiment concurrently**\n*
+      **32 Mb datasource**\n* **unlimited experiments** "
     highlight: true
     actions:
     - label: Order Now
