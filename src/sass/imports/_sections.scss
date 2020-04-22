@@ -5,7 +5,9 @@
 .block-title {
   font-size: 2.44444rem;
   margin: 0 0 1.33333rem;
-
+  font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
+  font-weight: 300 !important;
+  color: #470372 !important;
   &:last-child {
     margin-bottom: 1.66667rem;
   }
