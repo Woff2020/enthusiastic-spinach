@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: section_hero
   template: section_hero
-  title: Datomize - Home for AI
+  title: Democratizing Real-time Machine Learning
   section_id: hero
   content: |-
     Datomize is a fully managed platform providing real-time codeless machine learning. It loads your datasets, trains the best learning algorithm to your needs and deploys - all in under a minute, automatically.

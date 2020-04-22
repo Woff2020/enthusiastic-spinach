@@ -16,7 +16,7 @@ sections:
     image: images/useCases/banking_usecase.jpeg
   - title: Insurance
     content: With Machine Learning, insurance companies can improve predictions, becoming efficient and more profitable while bettering customer experience. With an constantly learning algorithm, Insurers allow for better personalized offers, reducing risk and loss.
-    image: images/useCases/banking_usecase.jpeg
+    image: images/useCases/insurance_usecase.png
   - title: Agriculture
     content: A growing part of modern agriculture and Agritech specifically, is the ability to digest a multitude of inputs from soil samples, satellite data, weather and historic and give actionable predictions on irrigation and pest control as well as on future yields. In an ecosystem where nothing is stable, adaptive real-time Machine Learning holds a major advantage.
     image: images/useCases/agriculture.jpeg
