@@ -57,16 +57,6 @@
     "social_title": "Community",
     "social_links": [
       {
-        "label": "Twitter",
-        "url": "https://twitter.com/",
-        "new_window": true
-      },
-      {
-        "label": "Instagram",
-        "url": "https://www.instagram.com/",
-        "new_window": true
-      },
-      {
         "label": "LinkedIn",
         "url": "https://www.linkedin.com/company/datomize-ai",
         "new_window": true
