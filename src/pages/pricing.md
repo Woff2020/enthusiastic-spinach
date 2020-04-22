@@ -10,11 +10,8 @@ sections:
   pricing_plans:
   - title: Free Plan
     price: "$0/m"
-    details: |-
-      * **20 requests per minute**
-      * **1 running experiment concurrently**
-      * **16 Mb datasource**
-      * **unlimited experiments**
+    details: "* **20 requests per minute**\n* **1 running experiment concurrently**\n*
+      **16 Mb datasource**\n* **unlimited experiments** "
     actions:
     - label: Order Now
       url: "/signup"
