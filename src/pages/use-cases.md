@@ -28,7 +28,7 @@ sections:
     image: images/useCases/industrial_usecase.jpeg
   - title: Sports
     content: Whether on or off the game field, real-time accurate predictions can give that little edge which competing is all about. With a constant flow of information and the ability to adjust and adapt, Machine Learning can help teams and individuals stay ahead and go for the win.
-    image: images/useCases/sports_usecase.jpeg
+    image: images/useCases/sports_usecase.jpg
   - title: Utilities
     content: Water and energy usage and demand predictions, water leaks, smart grid.
     image: images/useCases/utilities_usecase.jpeg

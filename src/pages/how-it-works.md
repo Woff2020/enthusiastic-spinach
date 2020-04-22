@@ -8,7 +8,7 @@ sections:
   background: gray
   features:
   - title: Loading datasets into the Datomize platform
-    content: Datasets are loaded directly into the Datomize platform or streamed from any data streaming platform such as \[EXAMPLES\] using Datomize connectors. The data is automatically inserted and cleansed. It is now stored in the platform’s Data Engine, totally independent from the originating cloud provider. The dataset ready to be analyzed and used.
+    content: Datasets are loaded directly into the Datomize platform or streamed from any data streaming platform such as S3, Azure using Datomize connectors. The data is automatically inserted and cleansed. It is now stored in the platform’s Data Engine, totally independent from the originating cloud provider. The dataset ready to be analyzed and used.
     image: images/home/dataSourceExamples.jpg
   - title: Data analysis and training a winner
     content: The Datomize platform Algorithmic Engine automatically scans the loaded data using the smart feature selection and locks on the main parameters, their influence and how they correlate to the desired output prediction. Small batches of the loaded data are used to train several Machine Learning Algorithms picking the one with the best results - all done automatically, in real-time and under a few minutes

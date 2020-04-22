@@ -72,22 +72,5 @@ sections:
     avatar: images/review3.jpg
     content: Integer consectetur purus neque, ac porttitor enim convallis vitae. Interdum
       et malesuada fames ac ante ipsum primis in faucibus.
-- type: section_cta
-  template: section_cta
-  title: This Is Call To Action Block!
-  section_id: call-to-action
-  subtitle: This is an optional description for the call to action block.
-  actions:
-  - label: Get Started
-    url: "/signup"
-    primary: false
-    new_window: false
-- type: section_posts
-  template: section_posts
-  title: Latest Posts
-  section_id: recent-posts
-  background: gray
-  subtitle: ''
 template: landing
-
 ---
