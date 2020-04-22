@@ -66,5 +66,5 @@ sections:
     image: images/useCases/gaming_usecase.jpeg
   - title: Service Providers
     content: Churn prevention, personalization and next best offer.
-    image: images/useCases/chrun_case.jpeg
+    image: images/useCases/chrun_usecase.jpg
 ---
