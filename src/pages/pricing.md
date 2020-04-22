@@ -20,12 +20,12 @@ sections:
     #   url: "/signup"
     #   primary: false
     #   new_window: false
-    # highlight: false
+    highlight: true
   - title: HouseKeeper
     price: "$49/m"
     details: "* **200 requests per minute**\n* **2 running experiment concurrently**\n*
       **32 Mb datasource**\n* **unlimited experiments** "
-    # highlight: true
+    highlight: false
     # actions:
     # - label: Order Now
     #   url: "/signup"
@@ -43,7 +43,7 @@ sections:
     #   url: "/signup"
     #   primary: false
     #   new_window: false
-    # highlight: false
+    highlight: false
 template: landing
 
 ---
