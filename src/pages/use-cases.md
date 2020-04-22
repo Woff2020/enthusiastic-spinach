@@ -1,5 +1,6 @@
 ---
 title: Use Cases
+template: landing
 sections:
 - type: section_features
   template: section_features
@@ -66,8 +67,4 @@ sections:
   - title: Service Providers
     content: Churn prevention, personalization and next best offer.
     image: images/useCases/chrun_case.jpeg
-template: landing
-subtitle: ''
-image: "/images/backgrounds/pexels.jpeg"
-
 ---
