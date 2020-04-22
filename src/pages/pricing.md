@@ -8,7 +8,7 @@ sections:
   subtitle: You can have a separate pricing page or list everything on the home page.
   background: gray
   pricing_plans:
-  - title: Basic
+  - title: Free Plan
     price: "$0/m"
     details: |-
       * **20 requests per minute**
