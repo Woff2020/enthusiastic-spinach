@@ -21,14 +21,13 @@ sections:
       primary: false
       new_window: false
     highlight: false
-  - title: Professional
+  - title: HouseKeeper
     price: "$49/m"
     details: |-
-      * Curabitur non nunc mollis
-      * Duis a purus nec ligula
-      * Pellentesque sit amet
-      * Fusce tempus mi vitae
-      * Nullam sollicitudin ante
+      * **200 requests per minute**
+      * **2 running experiment concurrently**
+      * **32 Mb datasource**
+      * **unlimited experiments**
     highlight: true
     actions:
     - label: Order Now
