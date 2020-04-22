@@ -3,13 +3,13 @@ title: Home
 sections:
 - type: section_hero
   template: section_hero
-  title: Datomize - Home for AI
+  title: Datomize - AI Home for AutoML
   section_id: hero
   content: |-
     Datomize is a fully managed platform providing real-time codeless machine learning. It loads your datasets, trains the best learning algorithm to your needs and deploys - all in under a minute, automatically.
 
     Datomize opens the possibility to use real-time machine learning models for everyone with less effort at a lower cost.
-  image: images/hero.png
+  image: "/images/pexels-photo-1148820.jpeg"
   actions:
   - label: Learn More
     url: "/how-it-works"
