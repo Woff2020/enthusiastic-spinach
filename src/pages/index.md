@@ -71,6 +71,14 @@ sections:
       Because program makes feature engineering, model trains by automate. AutoML
       is open domain — we can run the same algorithm on any type of data like credit
       scoring, sales stock, text classifications, and others.
+  - content: We have surveyed AutoML deep learning approaches, but this is just one
+      class of AutoML techniques you can find in predictive modeling. In general,
+      AutoML approaches are most efficient in following domains, optimizing performance,
+      speed for predictive models or both. There are also many other criteria that
+      can be taken into account such as explainability of predictive models, however
+      AutoML capable of optimizing those criteria are in their infancy.
+    author: Pavel Kordík (Medium)
+    avatar: "/images/0_3iZVEzgH2qHpITx_.jpeg"
 template: landing
 
 ---
