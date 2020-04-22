@@ -21,14 +21,6 @@ sections:
     image: images/home/experiments.jpg
   - title: Always Transparent
     content: Everything is transparent in the Datomize platform. A comprehensive dashboard shows all the information on the success of the different algorithms, the parameters, the ongoing training status and even the ability to drill down into the model to understand and explain how the predictions are made. The dashboard even allows for sandbox experiments, testing offline to validate and check predictions before going online.
-    image: images/home/dashboard.jpg
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/home/logs.jpg
-  - title: Cool Feature of Your Services
-    content: In ante enim, lobortis quis congue vel, finibus sit amet mi. Aenean quis
-      venenatis sem. Proin eget massa id metus eleifend maximus sit amet nec urna.
-    image: images/home/monitor.jpg
+    image: images/home/explain.jpg
 template: landing
 ---
