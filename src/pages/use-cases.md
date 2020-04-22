@@ -3,7 +3,7 @@ title: Home
 sections:
 - type: section_features
   template: section_features
-  title: Features
+  title: Use Cases
   section_id: features
   subtitle: Real-time, adaptive Machine Learning holds a great promise in many domains, predicting best offer in retail, detecting and reducing financial fraud, fighting churn in telecom, forecasting crops in agriculture and more. Datomize helps teams to embrace Machine Learning and add real-time predictions to their core business.
   background: gray
