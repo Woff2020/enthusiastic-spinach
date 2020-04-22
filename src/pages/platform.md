@@ -2,7 +2,7 @@
 template: page
 title: Platform
 subtitle: ''
-image: ''
+image: "/images/flow.jpg"
 
 ---
 Datomize offers a hasslefree experience, creating and deploying machine learning models which continue to learn and progress, always adapting to changes and new data. The Datomize platform is real-time and automatic, training and selecting the best algorithm to fit the incoming datasets and goals. No coding is needed and deployment is automatic as well, whether to test assumptions and new directions within the platform itself or integrated in your code, using APIs.
