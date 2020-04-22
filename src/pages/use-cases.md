@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Use Cases
 sections:
 - type: section_features
   template: section_features
