@@ -15,22 +15,22 @@ sections:
       * **1 running experiment**
       * **16 Mb datasource**
       * **unlimited experiments**
-    actions:
-    - label: Order Now
-      url: "/signup"
-      primary: false
-      new_window: false
-    highlight: false
+    # actions:
+    # - label: Order Now
+    #   url: "/signup"
+    #   primary: false
+    #   new_window: false
+    # highlight: false
   - title: HouseKeeper
     price: "$49/m"
     details: "* **200 requests per minute**\n* **2 running experiment concurrently**\n*
       **32 Mb datasource**\n* **unlimited experiments** "
-    highlight: true
-    actions:
-    - label: Order Now
-      url: "/signup"
-      primary: false
-      new_window: false
+    # highlight: true
+    # actions:
+    # - label: Order Now
+    #   url: "/signup"
+    #   primary: false
+    #   new_window: false
   - title: Enterprise
     price: Talk to Us
     details: |-
@@ -38,12 +38,12 @@ sections:
       * **6 running experiment concurrently**
       * **256 Mb datasource**
       * **unlimited experiments**
-    actions:
-    - label: Order Now
-      url: "/signup"
-      primary: false
-      new_window: false
-    highlight: false
+    # actions:
+    # - label: Order Now
+    #   url: "/signup"
+    #   primary: false
+    #   new_window: false
+    # highlight: false
 template: landing
 
 ---
