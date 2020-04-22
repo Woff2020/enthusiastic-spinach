@@ -71,12 +71,6 @@ sections:
       Because program makes feature engineering, model trains by automate. AutoML
       is open domain — we can run the same algorithm on any type of data like credit
       scoring, sales stock, text classifications, and others.
-- type: section_posts
-  template: section_posts
-  title: Latest Posts
-  section_id: recent-posts
-  background: gray
-  subtitle: ''
 template: landing
 
 ---
