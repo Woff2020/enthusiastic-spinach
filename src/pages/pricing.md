@@ -32,12 +32,12 @@ sections:
       primary: false
       new_window: false
   - title: Enterprise
-    price: "$149/m"
+    price: Talk to Us
     details: |-
-      * Vestibulum non eros quis
-      * Aenean iaculis lorem
-      * Mauris eleifend sapien
-      * Phasellus lobortis risus
+      * **10000 requests per minute**
+      * **6 running experiment concurrently**
+      * **256 Mb datasource**
+      * **unlimited experiments**
     actions:
     - label: Order Now
       url: "/signup"
