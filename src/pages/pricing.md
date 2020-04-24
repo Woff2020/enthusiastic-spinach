@@ -12,7 +12,7 @@ sections:
     price: "$0/m"
     details: |-
       * **20 requests per minute**
-      * **1 running experiment**
+      * **1 running experiment concurrently**
       * **16 Mb datasource**
       * **unlimited experiments**
     # actions:
@@ -23,7 +23,7 @@ sections:
     highlight: true
   - title: HouseKeeper
     price: "$49/m"
-    details: "* **200 requests per minute**\n* **2 running experiment concurrently**\n*
+    details: "* **200 requests per minute**\n* **2 running experiments concurrently**\n*
       **32 Mb datasource**\n* **unlimited experiments** "
     highlight: false
     # actions:
@@ -35,7 +35,7 @@ sections:
     price: Talk to Us
     details: |-
       * **10000 requests per minute**
-      * **6 running experiment concurrently**
+      * **6 running experiments concurrently**
       * **256 Mb datasource**
       * **unlimited experiments**
     # actions:
