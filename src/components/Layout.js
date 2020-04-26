@@ -14,6 +14,9 @@ export default class Body extends React.Component {
                     {/* <title>{_.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' - '}{_.get(this.props, 'pageContext.site.siteMetadata.title')}</title> */}
                     <title>Datomize.AI</title>
                     <meta charSet="utf-8" />
+                    <meta name="description" content="Datomize.AI - Democratizing Real-time Machine Learning" />
+                    <meta name="keywords" content="data, ml, ai, machine learning" />
+                    <meta name="author" content="Datomize.AI" />
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta property="og:image" content="images/icons/datomize192.png" />
