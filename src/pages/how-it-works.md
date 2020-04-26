@@ -15,7 +15,7 @@ sections:
     image: images/home/experimentInfo.jpg
   - title: Deploying and embedding
     content: The resulting model is deployed immediately by the Algorithmic Engine on cloud. Real-time predictions are available when data is presented. The predictions can be viewed in the platform UI or accessed via API which is embedded as part of any external solution.
-    image: images/home/monitor.jpg
+    image: images/home/monitor.png
   - title: Constantly learning and adapting
     content: The model, selected by the Datomize platform can keep training, adapting to changes and drifts in the incoming data, all in real-time. Hyperparameters can be changed by the Algorithmic Engine to ensure high prediction rates or a switch to another algorithm which better fits the new data.
     image: images/home/experiments.jpg
