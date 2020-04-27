@@ -19,7 +19,10 @@ export default class Body extends React.Component {
                     <meta name="author" content="Datomize.AI" />
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
-                    <meta property="og:image" content="images/icons/datomize192.png" />
+                    <meta property="og:title" content="Datomize.AI" />
+                    <meta property="og:type" content="data, ml, ai, machine learning" />
+                    <meta property="og:url" content="https://www.datomize.ai/" />
+                    <meta property="og:image" content="https://www.datomize.ai/images/icons/datomize192.png" />
                     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet" />
                     <link rel="stylesheet" href={safePrefix('assets/css/main.css')} />
                     <link rel="shortcut icon" href="images/icons/favicon.ico" />

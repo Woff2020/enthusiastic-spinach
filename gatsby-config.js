@@ -7,6 +7,12 @@ module.exports = {
         `gatsby-plugin-sitemap`,
         'gatsby-plugin-robots-txt',
         {
+            resolve: 'gatsby-plugin-html-attributes',
+            options: {
+                lang: 'en'
+            }
+        },
+        {
             resolve: `gatsby-source-filesystem`,
             options: {
                 name: `pages`,
