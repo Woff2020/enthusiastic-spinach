@@ -15,13 +15,13 @@ export default class Body extends React.Component {
                     <title>Datomize.AI - Democratizing Real-time Machine Learning</title>
                     <meta charSet="utf-8" />
                     <meta name="description" content="Datomize is a fully managed platform providing real-time codeless machine learning. It loads your datasets, trains the best learning algorithm to your needs and deploys - all in under a minute, automatically." />
-                    <meta name="keywords" content="data, ml, ai, machine learning" />
+                    <meta name="keywords" content="datomize, datomize.ai, data, ml, ai, machine learning" />
                     <meta name="author" content="Datomize.AI" />
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta property="og:title" content="Datomize.AI - Democratizing Real-time Machine Learning" />
                     <meta name="og:description" content="Datomize is a fully managed platform providing real-time codeless machine learning. It loads your datasets, trains the best learning algorithm to your needs and deploys - all in under a minute, automatically." />
-                    <meta property="og:type" content="data, ml, ai, machine learning" />
+                    <meta property="og:type" content="datomize, datomize.ai, data, ml, ai, machine learning" />
                     <meta property="og:url" content="https://www.datomize.ai/" />
                     <meta property="og:image" content="https://www.datomize.ai/images/icons/datomize192.png" />
                     <link href="https://fonts.googleapis.com/css?family=Nunito+Sans:400,400i,700,700i" rel="stylesheet" />
