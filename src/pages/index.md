@@ -23,7 +23,7 @@ sections:
   background: white
   reviews:
   - author: Alexander Mamaev
-    avatar: "/images/unnamed.jpg"
+    avatar: "/images/Alexander_Mamaev.jpg"
     content: AutoML approach is different, in this approach we don’t need a human.
       Because program makes feature engineering, model trains by automate. AutoML
       is open domain — we can run the same algorithm on any type of data like credit
@@ -35,6 +35,6 @@ sections:
       can be taken into account such as explainability of predictive models, however
       AutoML capable of optimizing those criteria are in their infancy.
     author: Pavel Kordík (Medium)
-    avatar: "/images/0_3iZVEzgH2qHpITx_.jpeg"
+    avatar: "/images/Pavel.Kor.jpeg"
 template: landing
 ---
