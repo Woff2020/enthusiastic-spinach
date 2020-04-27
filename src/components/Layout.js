@@ -12,14 +12,14 @@ export default class Body extends React.Component {
             <React.Fragment>
                 <Helmet>
                     {/* <title>{_.get(this.props, 'pageContext.frontmatter.title') && _.get(this.props, 'pageContext.frontmatter.title') + ' - '}{_.get(this.props, 'pageContext.site.siteMetadata.title')}</title> */}
-                    <title>Datomize.AI</title>
+                    <title>Datomize.AI - Democratizing Real-time Machine Learning</title>
                     <meta charSet="utf-8" />
-                    <meta name="description" content="Datomize.AI - Democratizing Real-time Machine Learning" />
+                    <meta name="description" content="Datomize is a fully managed platform providing real-time codeless machine learning. It loads your datasets, trains the best learning algorithm to your needs and deploys - all in under a minute, automatically." />
                     <meta name="keywords" content="data, ml, ai, machine learning" />
                     <meta name="author" content="Datomize.AI" />
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
-                    <meta property="og:title" content="Datomize.AI" />
+                    <meta property="og:title" content="Datomize.AI - Democratizing Real-time Machine Learning" />
                     <meta property="og:type" content="data, ml, ai, machine learning" />
                     <meta property="og:url" content="https://www.datomize.ai/" />
                     <meta property="og:image" content="https://www.datomize.ai/images/icons/datomize192.png" />
