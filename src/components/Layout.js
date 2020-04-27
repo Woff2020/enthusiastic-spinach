@@ -20,6 +20,7 @@ export default class Body extends React.Component {
                     <meta name="viewport" content="width=device-width, initialScale=1.0" />
                     <meta name="google" content="notranslate" />
                     <meta property="og:title" content="Datomize.AI - Democratizing Real-time Machine Learning" />
+                    <meta name="og:description" content="Datomize is a fully managed platform providing real-time codeless machine learning. It loads your datasets, trains the best learning algorithm to your needs and deploys - all in under a minute, automatically." />
                     <meta property="og:type" content="data, ml, ai, machine learning" />
                     <meta property="og:url" content="https://www.datomize.ai/" />
                     <meta property="og:image" content="https://www.datomize.ai/images/icons/datomize192.png" />
