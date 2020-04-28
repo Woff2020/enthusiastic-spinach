@@ -47,10 +47,6 @@
       {
         "label": "About Us",
         "url": "/about"
-      },
-      {
-        "label": "Contact",
-        "url": "/contact"
       }
     ],
     "has_social": true,
