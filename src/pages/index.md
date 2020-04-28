@@ -15,6 +15,31 @@ sections:
     url: "/how-it-works"
     primary: false
     new_window: false
+- type: section_features
+  template: section_features
+  # title: Features
+  section_id: features
+  # subtitle: >-
+    # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
+    # quis lorem malesuada luctus.
+  background: gray
+  features:
+    - title: Fully automated and managed service
+      content: >-
+        No code machine learning from data ingestion to deployment endpoint
+      image: images/automated.png
+    - title: Continuously Learning
+      content: >-
+        Keep your model adaptive by continuously streaming data to your favorite warehouse
+      image: images/continuously.png
+    - title: Fast and more accurate models
+      content: >-
+        Bringing you the best fitted algorithm using  hypertuning that resolves your problem
+      image: images/target.png
+    - title: Real-time
+      content: >-
+        Real-time machine learning has access to a continuous flow of transactional data, but what it really needs in order to be effective is a continuous flow of labeled transactional data, and accurate labeling introduces latency
+      image: images/realtime.png
 - type: section_reviews
   template: section_reviews
   title: Testimonials
