@@ -1,7 +1,7 @@
 ---
 title: About Us
 subtitle: ''
-image: "/images/9.jpg"
+image: "/images/about.jpg"
 template: page
 
 ---
