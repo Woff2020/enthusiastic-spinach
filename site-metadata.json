@@ -15,8 +15,8 @@
         "url": "/platform"
       },
       {
-        "label": "How It Works",
-        "url": "/how-it-works"
+        "label": "How Does It Work",
+        "url": "/how-does-it-work"
       },
       {
         "label": "Use Cases",
@@ -59,8 +59,8 @@
       }
     ],
     "has_subscribe": true,
-    "subscribe_title": "Subscribe",
-    "subscribe_content": "Stay up to date with our latest developments.",
+    "subscribe_title": "Contact Us",
+    "subscribe_content": "You can reach us on <a href='mailto:support@datomize.ai'>support@datomize.ai</a>",
     "content": "&copy; Stackbit. All rights reserved.",
     "links": [
       {

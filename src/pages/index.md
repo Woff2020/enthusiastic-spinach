@@ -12,7 +12,7 @@ sections:
   image: "/images/pexels-photo-1148820.jpeg"
   actions:
   - label: Learn More
-    url: "/how-it-works"
+    url: "/how-does-it-work"
     primary: false
     new_window: false
 - type: section_features
@@ -42,7 +42,7 @@ sections:
       image: images/realtime.png
 - type: section_reviews
   template: section_reviews
-  title: Testimonials
+  title: About Automated Machine Learning
   section_id: reviews
   subtitle: ''
   background: white

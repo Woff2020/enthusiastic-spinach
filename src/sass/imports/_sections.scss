@@ -6,8 +6,8 @@
   font-size: 2.44444rem;
   margin: 0 0 1.33333rem;
   font-family: "Helvetica Neue", Helvetica, Arial, sans-serif !important;
-  font-weight: 300 !important;
-  color: #470372 !important;
+  font-weight: 400 !important;
+  color: #24023a !important;
   &:last-child {
     margin-bottom: 1.66667rem;
   }
@@ -36,7 +36,7 @@
 }
 
 .block-item {
-  margin-bottom: 1.66667rem;
+  margin-bottom: 5.66667rem;
 
   &:last-child {
     margin-bottom: 0;
@@ -295,7 +295,7 @@
 
   &.highlight {
     .plan-inside {
-      border: 2px solid _palette(accent);
+      border: 2px solid #0f36d2 !important; //_palette(accent);
     }
 
     .button {
@@ -326,17 +326,22 @@
 }
 
 .plan-name {
-  color: _palette(primary);
+  color: #0f36d2; //_palette(primary);
   font-size: 0.88889rem;
   font-weight: bold;
   margin: 0 0 1.66667rem;
 }
 
 .plan-price {
-  color: _palette(secondary);
+  color: #0f36d2;//_palette(secondary);
   font-size: 2.44444rem;
   font-weight: bold;
   margin-bottom: 1.66667rem;
+}
+
+.plan-price-subtitle{
+  color: _palette(secondary);
+  font-size: 1rem;
 }
 
 .plan-details {

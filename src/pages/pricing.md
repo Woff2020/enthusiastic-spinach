@@ -10,11 +10,17 @@ sections:
   pricing_plans:
   - title: Free Plan
     price: "$0/m"
+    price-subtitle: no credit required
     details: |-
-      * **20 requests per minute**
+      * **3 requests per minute**
       * **1 running experiment concurrently**
-      * **16 Mb datasource**
+      * **2 GB datasource**
       * **unlimited experiments**
+      * **Real-time**
+      * **Regression**
+      * **Two class classification** 
+      * **Multi class classification** 
+      * **Time series**
     # actions:
     # - label: Order Now
     #   url: "/signup"
@@ -23,8 +29,16 @@ sections:
     highlight: true
   - title: HouseKeeper
     price: "$49/m"
-    details: "* **200 requests per minute**\n* **2 running experiments concurrently**\n*
-      **32 Mb datasource**\n* **unlimited experiments** "
+    details: |-
+      * **200 requests per minute**
+      * **2 running experiments concurrently**
+      * **10 GB datasource**
+      * **unlimited experiments**
+      * **Real-time**
+      * **Regression**
+      * **Two class classification** 
+      * **Multi class classification** 
+      * **Time series**
     highlight: false
     # actions:
     # - label: Order Now
@@ -36,8 +50,13 @@ sections:
     details: |-
       * **10000 requests per minute**
       * **6 running experiments concurrently**
-      * **256 Mb datasource**
+      * **10 GB datasource**
       * **unlimited experiments**
+      * **Real-time**
+      * **Regression**
+      * **Two class classification** 
+      * **Multi class classification** 
+      * **Time series**
     # actions:
     # - label: Order Now
     #   url: "/signup"

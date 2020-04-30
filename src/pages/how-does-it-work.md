@@ -1,9 +1,9 @@
 ---
-title: How It Works
+title: How Does It Work
 sections:
 - type: section_features
   template: section_features
-  title: How It Works
+  title: How Does It Work
   section_id: features
   background: gray
   features:
