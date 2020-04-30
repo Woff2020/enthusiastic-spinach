@@ -29,10 +29,13 @@ export default class SectionPricing extends React.Component {
                     {_.get(plan, 'price') &&
                       <div className="plan-price">{_.get(plan, 'price')}
                         {_.get(plan, 'price-subtitle') &&
-                          <div className="plan-price-subtitle">{_.get(plan, 'price-subtitle')}</div>
+                          <div className="plan-price-subtitle" style={{ color: _.get(plan, 'price-subtitle-highlight') ? 'red' : 'inherit' }}>{_.get(plan, 'price-subtitle')}</div>
                         }</div>
                     }
                     <div className="plan-details">
+                      <span style={{ color: '#0f36d2' }}>
+                        {markdownify(_.get(plan, 'highlight-phase'))}
+                      </span>
                       {markdownify(_.get(plan, 'details'))}
                     </div>
                     {_.get(plan, 'actions') &&

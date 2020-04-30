@@ -10,11 +10,13 @@ sections:
   pricing_plans:
   - title: Free Plan
     price: "$0/m"
-    price-subtitle: no credit required
-    details: |-
+    price-subtitle: No credit card required
+    price-subtitle-highlight: true
+    highlight-phase: |-
       * **3 requests per minute**
       * **1 running experiment concurrently**
       * **2 GB datasource**
+    details: |-
       * **unlimited experiments**
       * **Real-time**
       * **Regression**
@@ -29,10 +31,12 @@ sections:
     highlight: true
   - title: HouseKeeper
     price: "$49/m"
-    details: |-
+    price-subtitle: Credit card required
+    highlight-phase: |-
       * **200 requests per minute**
       * **2 running experiments concurrently**
       * **10 GB datasource**
+    details: |-
       * **unlimited experiments**
       * **Real-time**
       * **Regression**
@@ -47,10 +51,12 @@ sections:
     #   new_window: false
   - title: Enterprise
     price: Talk to Us
-    details: |-
+    price-subtitle: Credit card required
+    highlight-phase: |-
       * **10000 requests per minute**
       * **6 running experiments concurrently**
       * **10 GB datasource**
+    details: |-
       * **unlimited experiments**
       * **Real-time**
       * **Regression**
