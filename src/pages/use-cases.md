@@ -29,7 +29,7 @@ sections:
       efficient and more profitable while bettering customer experience. With an constantly
       learning algorithm, Insurers allow for better personalized offers, reducing
       risk and loss.
-    image: images/useCases/insurance_usecase.png
+    image: images/useCases/insurance_usecase.jpg
   - title: Agriculture
     content: A growing part of modern agriculture and Agritech specifically, is the
       ability to digest a multitude of inputs from soil samples, satellite data, weather
@@ -43,7 +43,7 @@ sections:
       algorithms can help them deliver better outcomes while adjusting to new inputs.
       Unknown circumstances such as new virus strain can benefit from a quick turnaround
       of a real-time machine learning algorithm with an ability to adjust to new inputs.
-    image: images/useCases/healthcare_usecase.jpeg
+    image: images/useCases/healthcare_usecase.jpg
   - title: Industrial Automation
     content: As industrial manufacturing is moving into the 4th industrial revolution
       with digitization and automation, the ability to predict outcomes becomes more
@@ -59,12 +59,12 @@ sections:
       and individuals stay ahead and go for the win.
     image: images/useCases/sports_usecase.jpg
   - title: Utilities
-    content: Water and energy usage and demand predictions, water leaks, smart grid.
+    content: Smart utilities and grids are being deployed all over, with more data flowing back to control centers for electricity, gas and water. All this data needs to be leveraged with the power of machine learning to create a better, cheaper and more reliable service for customers. Better demand projections, planning, preventive service fault detection and others will utilize real-time accurate modeling which can react to quick changes like storms and unpredictable events to maintain the service people expect. 
     image: images/useCases/utilities_usecase.jpeg
   - title: Gaming
-    content: Operations and stickiness of games.
+    content: Gaming is all about competing for attention and maintaining a high interest while remaining entertaining. It relationship, adapting to quick changes in consumer behaviour while predicting churn and shifts in a vibrant and fast moving market. Gaming companies can benefit from AI using the huge amount of collected information they have on their players, increasing involvement, stickiness and preventing churn. 
     image: images/useCases/gaming_usecase.jpeg
-  - title: Service Providers
-    content: Churn prevention, personalization and next best offer.
-    image: images/useCases/chrun_usecase.jpg
+  - title: Telecommunication Service Providers
+    content: Telecommunication companies collect a huge amount of customer usage data as well as network performance information. In the fierce competition and the highly complex environments these companies operate, all this data needs to be leveraged to give the end customer a better personalized experience, preventing customer churn while improving network operation and experience, adapting to changes, faults with better real-time, adaptive models.
+    image: images/useCases/telecommunication_usecase.jpg
 ---
