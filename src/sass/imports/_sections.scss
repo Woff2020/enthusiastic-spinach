@@ -2,6 +2,12 @@
  * Sections
  * ----------------------------------------------------------------------------
  */
+ #features_main{
+    img {
+      width: 400px;
+      height: 275px;
+    }
+ }
 .block-title {
   font-size: 2.44444rem;
   margin: 0 0 1.33333rem;
@@ -81,7 +87,7 @@
       &:only-child {
         margin-left: auto;
         margin-right: auto;
-        max-width: 555px;
+        max-width: 50%;
         text-align: center;
 
         .underline {

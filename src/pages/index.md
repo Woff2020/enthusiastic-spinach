@@ -18,7 +18,7 @@ sections:
 - type: section_features
   template: section_features
   # title: Features
-  section_id: features
+  section_id: features_main
   # subtitle: >-
     # Lorem ipsum dolor sit amet, consectetur adipiscing elit. Nullam a metus
     # quis lorem malesuada luctus.
