@@ -13,6 +13,10 @@ sections:
     price-subtitle: No credit card required
     price-subtitle-highlight: true
     highlight-phase: |-
+      * ****
+      * **100,000 calls/month**
+      * **Capped 3,333 calls/day**
+      * ****
       * **3 requests per minute**
       * **1 running experiment concurrently**
       * **2 GB datasource**
@@ -33,6 +37,10 @@ sections:
     price: "$49/m"
     price-subtitle: Credit card required
     highlight-phase: |-
+      * ****
+      * **500,000 calls/month**
+      * **Capped 16666 calls/day**
+      * ****
       * **200 requests per minute**
       * **2 running experiments concurrently**
       * **10 GB datasource**
@@ -53,6 +61,10 @@ sections:
     price: Talk to Us
     price-subtitle: Credit card required
     highlight-phase: |-
+      * ****
+      * **Contact us**
+      * **for custom offerings**
+      * ****
       * **10000 requests per minute**
       * **6 running experiments concurrently**
       * **10 GB datasource**
