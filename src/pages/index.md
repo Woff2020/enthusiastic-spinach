@@ -61,5 +61,10 @@ sections:
       AutoML capable of optimizing those criteria are in their infancy.
     author: Pavel Kordík (Medium)
     avatar: "/images/Pavel.Kor.jpeg"
+- type: section_posts
+  template: section_posts
+  title: Latest Posts
+  section_id: recent-posts
+  background: gray
 template: landing
 ---

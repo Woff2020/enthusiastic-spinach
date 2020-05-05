@@ -59,6 +59,7 @@
   -webkit-flex-wrap: wrap;
   -ms-flex-wrap: wrap;
   flex-wrap: wrap;
+  justify-content: center; // TODO: Remove when we have more than 1 post
   margin: 0 -0.83333em 1.66667em;
 
   .post-card {

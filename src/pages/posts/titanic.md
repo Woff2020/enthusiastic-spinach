@@ -26,25 +26,25 @@ You can enter it using the following link https://platform.datomize.ai/data-sour
 You can see the Engine recommended not to use 4 columns.
 cabin,body, home.dest and ticket.
 If we think about that it makes sense. why?
-Clicking on body will show you next
+Clicking on **body** will show you next
 ![Titanic Data Set](/images/titanic/titanicDataSet.png)
 > as you can see it has 1188 missing values.
  its  ~ 90 percent of  out of all values. probably this column has nothing to contribute to this set.
-name, ticket and home.dest are category columns and they have so many distinct values it denotes nothing to out target variable.
+**name**, **ticket** and **home.dest** are category columns and they have so many distinct values it denotes nothing to out target variable.
 
 ## Create Experiment
 Next we will hit the screwdriver button to get to the most interesting part
 “Choosing an algorithm”.
 
-For this task i choose RANDOM FOREST algorithm.
+For this task i choose **RANDOM FOREST** algorithm.
 Random forest is very popular algorithm which uses bagging trees.
 It creates random trees and making decision by voting on the result of each tree.
 
 In this step we split lineary (using toggling off the random button) the dataset to (70,30)
 70 percent will be trained and 30 percent will be reserved for test.
-We are choosing survived column to be predicted.
+We are choosing **survived** column to be predicted.
 Choose random forest from the two class section.
-Toggle AutoOptimize button to let the system to choose the best model hyper tuning and choose best metric Accuracy
+Toggle **AutoOptimize** button to let the system to choose the best model hyper tuning and choose best metric **Accuracy**
 
 ![Create Experiment](/images/titanic/createExperiment.png)
 Now you can click RUN button to start experiment
