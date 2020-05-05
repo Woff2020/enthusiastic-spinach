@@ -17,7 +17,6 @@ sections:
       * **100,000 calls/month**
       * **Capped 3,333 calls/day**
       * ****
-      * **3 requests per minute**
       * **1 running experiment concurrently**
       * **2 GB datasource**
     details: |-
@@ -41,7 +40,6 @@ sections:
       * **500,000 calls/month**
       * **Capped 16666 calls/day**
       * ****
-      * **200 requests per minute**
       * **2 running experiments concurrently**
       * **10 GB datasource**
     details: |-
@@ -65,7 +63,6 @@ sections:
       * **Contact us**
       * **for custom offerings**
       * ****
-      * **10000 requests per minute**
       * **6 running experiments concurrently**
       * **10 GB datasource**
     details: |-
