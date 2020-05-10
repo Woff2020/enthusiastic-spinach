@@ -12,4 +12,6 @@ Today, most machine learning development requires highly skilled professionals a
 
 With Datomize you can focus on your core business and utilize a one-stop-shop service to create a machine learning model in record time, flexibility and ease of use. This frees time and resources and reduces your operating costs significantly.
 
+![Dashboard Example](/images/platform-Dashboard.png)
+
 The Datomize platform can cater to individuals or companies with minimal data science experience or to larger entities with data science capabilities who want to try out a new idea or reduce the operations cost while automating the process of Machine Learning
