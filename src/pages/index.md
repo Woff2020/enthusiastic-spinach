@@ -26,20 +26,33 @@ sections:
   features:
     - title: Fully automated and managed service
       content: >-
-        No code machine learning from data ingestion to deployment endpoint
+        Automating the data science lifecycle, end-to-end
       image: images/automated.png
+    - title: Real-time
+      content: >-
+        Going from raw data through training to effective predictions in seconds 
+      image: images/realtime.png
     - title: Continuously Learning
       content: >-
-        Keep your model adaptive by continuously streaming data to your favorite warehouse
+        Adapting to world changes by continuous real-time training of existing model
       image: images/continuously.png
     - title: Fast and more accurate models
       content: >-
-        Bringing you the best fitted algorithm using  hypertuning that resolves your problem
+        Choosing the best fitted algorithm and hypertuning it to hit goals
       image: images/target.png
-    - title: Real-time
+    - title: Transparent
       content: >-
-        Real-time machine learning has access to a continuous flow of transactional data, but what it really needs in order to be effective is a continuous flow of labeled transactional data, and accurate labeling introduces latency
-      image: images/realtime.png
+        Inspiring confidence in predictions with human friendly explainable models
+      image: images/monitor.png
+    - title: Codeless Implementation
+      content: >-
+        Turn data to predictions and use it without writing a single line of code
+      image: images/codeless.png
+- type: section_content
+  template: section_content
+  title: Connectors
+  content: >-
+    ![Connectors](/images/connectors.png)
 - type: section_reviews
   template: section_reviews
   title: About Automated Machine Learning
