@@ -24,30 +24,36 @@ sections:
     # quis lorem malesuada luctus.
   background: gray
   features:
-    - title: Fully automated and managed service
+    - title: Build Freshed models from batch, streaming, and real-time data
       content: >-
-        Automating the data science lifecycle, end-to-end
+        Generate models with your best features.precomputed in batch,  generated in real-time, get best model from your data.
+        Automatically managed models with health check 
       image: images/automated.png
-    - title: Real-time
+    - title: Real-time Models
       content: >-
-        Going from raw data through training to effective predictions in seconds 
+        Continue to build fresh models as data keep streaming, avoid creating gap between your model as reality changes
       image: images/realtime.png
-    - title: Continuously Learning
+    - title: Use  your features to build better models faster
       content: >-
-        Adapting to world changes by continuous real-time training of existing model
+        We pick the best features for every data set and builder better model fast
       image: images/continuously.png
-    - title: Fast and more accurate models
+    - title: Deploy Fast more accurate models
       content: >-
-        Choosing the best fitted algorithm and hypertuning it to hit goals
+        We hypertune you mode fast and serving your models with high confidence in act your model is always up to date and accurate
       image: images/target.png
     - title: Transparent
       content: >-
-        Inspiring confidence in predictions with human friendly explainable models
+        Always Transparent to check how decision are made in every model we build. Keep tracking your goal
       image: images/monitor.png
     - title: Codeless Implementation
       content: >-
-        Turn data to predictions and use it without writing a single line of code
+        Now developers can leverate this platform to get better models easily without background needed in data science area. The whole process is easy and friendly
       image: images/codeless.png
+    - title: Independent Datasource
+      content: >-
+        No need for ETLing your data from warehouse to other storage.
+        We connect directly to your warehouse and keep reading your new data from shelf.
+      image: images/target.png
 - type: section_content
   template: section_content
   title: Connectors

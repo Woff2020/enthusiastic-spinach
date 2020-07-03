@@ -17,6 +17,7 @@ sections:
       * **Capped 3,333 calls/day**
       * ****
       * **1 running experiment concurrently**
+      * **16 Mb Dataset**
       * **2 GB datasource**
     details: |-
       * **unlimited experiments**
@@ -40,6 +41,7 @@ sections:
       * **Capped 16666 calls/day**
       * ****
       * **2 running experiments concurrently**
+      * **64 Mb Dataset**
       * **10 GB datasource**
     details: |-
       * **unlimited experiments**
@@ -63,6 +65,7 @@ sections:
       * **for custom offerings**
       * ****
       * **6 running experiments concurrently**
+      * **64 Mb Dataset**
       * **10 GB datasource**
     details: |-
       * **unlimited experiments**
