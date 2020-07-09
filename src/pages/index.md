@@ -1,6 +1,11 @@
 ---
 title: Home
 sections:
+- type: section_content
+  template: section_content
+  title:  We are excited to announce that we have been selected to participate in the AWS Builder Space program!
+  content: >-
+    ![awsBuildersSpaceLogo](/images/awsSpaceLogo.jpeg)
 - type: section_hero
   template: section_hero
   title: Democratizing Real-time Machine Learning
